@@ -6,7 +6,7 @@ description: Things I'll be working on
 
 1. Explain Netty in a nutshell
 2. How Proxy works
-3. OS for higher level abstraction lovers
+3. OS for higher level abstraction developers
 4. Secondary activities of any deployment: Instrumentation and sidecars
 5. Deployment Models
 6. Design: GameEngine
