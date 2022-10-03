@@ -20,6 +20,7 @@
 * [Sockets](lets-talk-about-sockets-and-protocols/sockets.md)
 * [Understanding Netty](lets-talk-about-sockets-and-protocols/understanding-netty.md)
 * [Proxy](lets-talk-about-sockets-and-protocols/proxy.md)
+* [VPN: Concepts and how to implement for your team](lets-talk-about-sockets-and-protocols/vpn-concepts-and-how-to-implement-for-your-team.md)
 
 ## Share your writes . . .&#x20;
 
@@ -29,3 +30,7 @@
 ## World is scary place for any application
 
 * [Security Basics](world-is-scary-place-for-any-application/security-basics.md)
+
+## Maintaining Stuff&#x20;
+
+* [Adapters](maintaining-stuff/adapters.md)
