@@ -2,13 +2,6 @@
 
 * [ToDo](README.md)
 
-## art of letting go
-
-* [Focused Attention](art-of-letting-go/focused-attention.md)
-* [How to slow down to be fast](art-of-letting-go/how-to-slow-down-to-be-fast.md)
-* [Efficient vs Effective](art-of-letting-go/efficient-vs-effective.md)
-* [Save 10 mins a week automation](art-of-letting-go/save-10-mins-a-week-automation.md)
-
 ## Operating System for Application Developers
 
 * [Primitives](operating-system-for-application-developers/primitives.md)
